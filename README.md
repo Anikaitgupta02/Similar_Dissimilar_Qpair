@@ -9,3 +9,6 @@ The overall project required-
 6. Checking accuracy on RandomForest and XGBoost Classifier
 
 I also had plans to  deploy this on local host website using Pycharm and Heroku but there was some issue regarding authentication hence I couldn't, so here in this repository I have the jupyter notebook to the code. 
+
+I achieved an accuracy of 79.91% using my model. Some other models have that had the best accuracy were around 85%.
+Here is the link of paper for your reference- https://arxiv.org/ftp/arxiv/papers/2004/2004.11694.pdf
