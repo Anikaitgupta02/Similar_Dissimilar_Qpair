@@ -1,4 +1,4 @@
-# dupli_notdupli
+# Simmilar/Dissimilar Question Pairs
 This is a project developed using machine learning technique called NLP(Natural Language Processing) where in one can find out whether the two given statements are duplicate/having same meaning or different. The Data-set used is from Kaggle(quora case). This process of finding out duplicate question pairs is helpful in reducing the amount of time spent to answer same/similar questions and bringing all the people who want to know answers to similiar questions at one place by merging them without creating any confusion.
 The overall project required-
 1. Importing requirements and dataset
